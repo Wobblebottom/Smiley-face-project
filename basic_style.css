@@ -19,7 +19,7 @@ h1 {
 /* SELECT ALL SQUARES IN THE ARRAY */
 
 .container .squares:nth-child(-n+4) {
-    background-image: url("Smileyface2/icons1.png");
+    background-image: url("Projects/Smileyface2/icons1.png");
     color: #fff;
     float: left;
     width: 100px;
@@ -65,7 +65,7 @@ h1 {
 /* HOVER, TRANSLATE & TRANSFORM EFFECTS */
 
 .container .squares:nth-child(-n+4):hover {
-    background-image: url("Smileyface2/icons2.png");
+    background-image: url("Projects/Smileyface2/icons2.png");
 }
 .squares:nth-child(1):hover {
         background: #13b4ff;
